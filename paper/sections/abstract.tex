@@ -1,0 +1,10 @@
+\begin{abstract}
+Hand gesture recognition has many applications in engineering and health care. This paper proposes a model that accurately distinguishes hand gestures using the surface electromyographic (sEMG) signals of forearm muscles. For this purpose, deep learning algorithm and convolutional neural network (CNN) have been used in the recognition stage. The deep neural network contains hyperparameters that affect the final accuracy of the model. In this study, The number of convolutional layers, the number of kernels per layer, and the number of dense layer’s neurons are selected for optimization, and the remaining parameters, such as the learning rate, batch size, and the number of epochs are selected based on the try and error and prior knowledge. The optimal values for selected hyperparameters are obtained using a genetic algorithm to achieve maximum recognition accuracy. The UC2018 database was used to train and test the model, including EMG signals related to 8 hand gestures. The model's structure consists of 2 convolutional layers with 131 and 28 kernels, a dense layer with 111 neurons, and finally, a softmax layer with 8 neurons. After optimizing the hyperparameters using the genetic algorithm, the proposed model's accuracy increases from 91.86\% to 96.4\% at best, and 95.3\% on average in real-time usage. The accuracy of the optimized model in offline mode is 99.6\%. The source code is available
+ \url{https://github.com/AlirezaKhodabakhsh/Genetic_EMG}
+\end{abstract}
+
+% Note that keywords are not normally used for peer review papers.
+\begin{IEEEkeywords}
+%IEEE, IEEEtran, journal, \LaTeX, paper, template.
+Gesture Recognition, sEMG, Deep Learning, Genetic Algorithm
+\end{IEEEkeywords}

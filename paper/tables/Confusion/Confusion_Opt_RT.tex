@@ -1,0 +1,23 @@
+% Please add the following required packages to your document preamble:
+% \usepackage{multirow}
+% \usepackage{longtable}
+% Note: It may be necessary to compile the document several times to get a multi-page table to line up properly
+\begin{longtable}{cccccccccc}
+\caption{confusion matrix of the optimized model in real-time mode}
+\label{tab:my-table}\\
+\cline{2-10}
+                        & \multicolumn{9}{c}{Predicted}                      \\ \cline{2-10} 
+\endfirsthead
+%
+\endhead
+%
+                        &    & G0  & G1  & G2  & G3  & G4  & G5  & G6  & G7  \\ \hline
+\multirow{8}{*}{Actual} & G0 & 215 & 0   & 0   & 0   & 0   & 18  & 0   & 0   \\ \cline{2-2}
+                        & G1 & 0   & 264 & 0   & 1   & 0   & 0   & 0   & 0   \\ \cline{2-2}
+                        & G2 & 0   & 0   & 252 & 0   & 6   & 0   & 0   & 0   \\ \cline{2-2}
+                        & G3 & 0   & 0   & 1   & 275 & 3   & 0   & 0   & 0   \\ \cline{2-2}
+                        & G4 & 0   & 0   & 2   & 0   & 258 & 0   & 0   & 0   \\ \cline{2-2}
+                        & G5 & 48  & 0   & 0   & 1   & 0   & 220 & 0   & 0   \\ \cline{2-2}
+                        & G6 & 0   & 0   & 0   & 0   & 0   & 0   & 281 & 0   \\ \cline{2-2}
+                        & G7 & 0   & 0   & 0   & 0   & 3   & 0   & 0   & 267 \\ \hline
+\end{longtable}

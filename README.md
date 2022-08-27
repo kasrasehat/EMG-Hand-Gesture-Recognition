@@ -7,9 +7,6 @@
 - [[Email](alireza.khodabakhsh@ee.sharif.edu)]
 - [[LinkedIn](https://www.linkedin.com/in/alirezakhodabakhsh/)]
 - [[GitHub](https://github.com/AlirezaKhodabakhsh)]
-- **Arman Aghaee** [[Email](arman.aghaee@ryerson.ca)] 
-- [[LinkedIn](https://www.linkedin.com/in/armanaghaee/)]
-- [[GitHub](https://github.com/armanaghaee)]
 
 
 ##### Run Insurction

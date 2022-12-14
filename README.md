@@ -3,10 +3,7 @@
 - [[Email](kasra.sehat@sharif.edu)] 
 - [[LinkedIn](https://www.linkedin.com/in/kasra-sehat/)]
 - [[GitHub](https://github.com/in/kasrasehat)]
-- **Alireza Khodabakhsh** 
-- [[Email](alireza.khodabakhsh@ee.sharif.edu)]
-- [[LinkedIn](https://www.linkedin.com/in/alirezakhodabakhsh/)]
-- [[GitHub](https://github.com/AlirezaKhodabakhsh)]
+
 
 
 ##### Run Insurction
